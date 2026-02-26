@@ -90,6 +90,6 @@ This project was created as part of my learning journey in **Data Analytics and 
 ---
 
 ## 📬 Contact
-If you have suggestions or feedback, feel free to connect with me on **LinkedIn**.
+If you have suggestions or feedback, feel free to connect with me on **LinkedIn** www.linkedin.com/in/tanmayipatil19.
 
 ⭐ If you find this project useful, consider giving it a star!
