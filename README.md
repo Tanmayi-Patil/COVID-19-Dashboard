@@ -82,6 +82,7 @@ The goal of this project is to transform raw COVID-19 data into **meaningful ins
 
 ## A snapshot of my COVID-19 Power BI dashboard—turning data into insights 📊
 https://github.com/Tanmayi-Patil/COVID-19-Dashboard/blob/main/Covid-19%20Dashboard%20by%20Tanmayi.png
+https://github.com/Tanmayi-Patil/COVID-19-Dashboard/blob/main/Covid-19%20Dashboard%20by%20Tanmayi.png
 
 ---
 ## 🙌 Acknowledgements
